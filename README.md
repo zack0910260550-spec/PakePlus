@@ -5,8 +5,8 @@ style="margin: 0 10px;" >简体中文</a>
 <a href="https://github.com/Sjj1024/PakePlus/discussions/108">日本语</a>
 </h4>  
 <p align="center">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/pakeplus.png" width=138/>
-</p>
+    <img src="https://github.com/Sjj1024/PacBao-Doc/raw/main/static/imgs/pakeplus.png" width=138/>
+</p>  
 <h1 align="center">PakePlus</h1>  
 <p align="center"><strong>Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes</strong></p>
 
@@ -62,16 +62,16 @@ https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 
 ## Popular Packages
 
-<img src=https://sjj1024.github.io/PakePlus/static/imgs/preview.webp  width=1920/>
+<img src=https://sjj1024.github.io/PacBao/static/imgs/preview.webp  width=1920/>
 
 PakePlus supports installation packages for both ARM and Intel architectures. Most popular program installation packages only include the ARM architecture for macOS and the Intel architecture for Windows. If you need installation packages for additional architectures, please use PakePlus to compile the required package separately.
 
 <table>
     <tr>
         <td>DeepSeek
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_aarch64.dmg">Mac</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_x64-setup.exe">Windows</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/DeepSeek_0.0.1_amd64.deb">Linux</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/DeepSeek_0.0.1_aarch64.dmg">Mac</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/DeepSeek_0.0.1_x64-setup.exe">Windows</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/DeepSeek_0.0.1_amd64.deb">Linux</a>
         </td>
         <td>X (Twitter)
             <a href="https://github.com/codegirle/PakePlus/releases/download/Twitter/Twitter_0.0.1_aarch64.dmg">Mac</a>
@@ -80,8 +80,8 @@ PakePlus supports installation packages for both ARM and Intel architectures. Mo
         </td>
     </tr>
     <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/deepseek.png width=600/></td>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/xtwitter.png width=600/></td>
+        <td><img src=https://sjj1024.github.io/PacBao/static/imgs/deepseek.png width=600/></td>
+        <td><img src=https://sjj1024.github.io/PacBao/static/imgs/xtwitter.png width=600/></td>
     </tr>
     <tr>
         <td>YouTube
@@ -90,14 +90,14 @@ PakePlus supports installation packages for both ARM and Intel architectures. Mo
             <a href="https://github.com/codegirle/PakePlus/releases/download/YouTube/you-tube_0.0.2_amd64.deb">Linux</a>
         </td>
         <td>小红书
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_aarch64.dmg">Mac</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_x64-setup.exe">Windows</a>
-            <a href="https://github.com/Sjj1024/PakePlus/releases/download/OtherFiles/_0.0.1_amd64.deb">Linux</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/_0.0.1_aarch64.dmg">Mac</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/_0.0.1_x64-setup.exe">Windows</a>
+            <a href="https://github.com/Sjj1024/PabBao/releases/download/OtherFiles/_0.0.1_amd64.deb">Linux</a>
         </td>
     </tr>
     <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/youtube.png width=600/></td>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/hongshu.png width=600/></td>
+        <td><img src=https://sjj1024.github.io/PacBao/static/imgs/youtube.png width=600/></td>
+        <td><img src=https://sjj1024.github.io/PacBao/static/imgs/hongshu.png width=600/></td>
     </tr>
         <tr>
         <td>Tiktok
@@ -112,14 +112,14 @@ PakePlus supports installation packages for both ARM and Intel architectures. Mo
         </td>
     </tr>
     <tr>
-        <td><img src=https://sjj1024.github.io/PakePlus/static/imgs/tiktok.png width=600/></td>
+        <td><img src=https://sjj1024.github.io/PacBao/static/imgs/tiktok.png width=600/></td>
         <td><img src=https://files.pakeplus.com/julebu.webp width=600/></td>
     </tr>
 </table>
 
 ## Getting Started
 
-1. Download the app from the release page：https://github.com/Sjj1024/PakePlus/releases,  
+1. Download the app from the release page：https://github.com/Sjj1024/PabBao/releases,  
    double-click to install, and run the app. or visit web:
 
 <a href="https://pakeplus.pages.dev" target="_blank">PakePlus Web</a>
@@ -187,16 +187,12 @@ All work is conducted openly on GitHub. Whether you are a core team member or an
 
 1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
  <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qqpp3.jpg" width=200/>
+    <img src="https://github.com/Sjj1024/PacBao-Doc/raw/main/static/imgs/mywx.png" width=200/>
+    <img src="https://github.com/Sjj1024/PacBao-Doc/raw/main/static/imgs/wxcode.png" width=200/>
+    <img src="https://github.com/Sjj1024/PacBao-Doc/raw/main/static/imgs/qqpp3.jpg" width=200/>
  </p>
 
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
+1. 💖If PakePlus has brought joy to your life, feel free to support it.
  <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
+    <img src="https://github.com/Sjj1024/PacBao-Doc/raw/main/static/imgs/sponsor.webp" width=620/>
  </p>
-
-<!-- ## Star History -->
-
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=Sjj1024/PakePlus,Sjj1024/PakePlus-iOS,Sjj1024/PakePlus-Android&type=Date)](https://www.star-history.com/#Sjj1024/PakePlus&Sjj1024/PakePlus-iOS&Sjj1024/PakePlus-Android&Date) -->
