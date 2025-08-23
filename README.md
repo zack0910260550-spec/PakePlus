@@ -23,7 +23,7 @@ style="margin: 0 10px;" >简体中文</a>
 Document: <a href="https://pakeplus.com/guide/" target="_blank">PakePlus Guide</a></div>  
 <br>
 
-> **PakePlus is entirely independently developed**—it uses no code, architecture, or design from [Pake](https://github.com/tw93/Pake), and all implementations are original
+> Due to individuals using this project to package illegal software, which violates its intended purpose, the front-end code will no longer be open-source. If such behavior is found again, all code in this project will cease to be open-source. Please use this software legally and responsibly, or bear the consequences.
 
 https://github.com/user-attachments/assets/b88bf541-0b26-4020-9eec-da79e1734fc9
 
